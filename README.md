@@ -41,3 +41,11 @@ The model was converted into a TFLite model using the TFLiteConverter for deploy
 # App Permissions
 
 - WRITE EXTERNAL STORAGE
+
+# Screenshots
+
+<img src="https://github.com/ishan18/FashionSimulator/blob/master/screenshots/home.jpeg" alt="Home Screen" width="250px" height="400px">
+<img src="https://github.com/ishan18/FashionSimulator/blob/master/screenshots/shirts.jpeg" alt="Home Screen" width="250px" height="400px">
+<img src="https://github.com/ishan18/FashionSimulator/blob/master/screenshots/trousers.jpeg" alt="Home Screen" width="250px" height="400px">
+<img src="https://github.com/ishan18/FashionSimulator/blob/master/screenshots/ankleboots.jpeg" alt="Home Screen" width="250px" height="400px">
+<img src="https://github.com/ishan18/FashionSimulator/blob/master/screenshots/sneakers.jpeg" alt="Home Screen" width="250px" height="400px">
